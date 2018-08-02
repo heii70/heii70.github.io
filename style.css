@@ -6,8 +6,12 @@ h1 {
 #projects {
 
 	list-style-type: none;
-	margin-left: -25px;
 	
+}
+
+#projects li {
+
+	margin-left: -25px;
 }
 
 #projects li a {
