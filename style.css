@@ -2,3 +2,19 @@ h1 {
 	display: inline;
 	color: #3366ff;
 }
+
+#projects {
+
+	list-style-type: none;
+	
+}
+
+#projects li {
+	margin-left: -25px;
+	
+}
+
+#projects li a {
+
+    text-decoration: none;
+}
