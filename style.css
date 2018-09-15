@@ -1,17 +1,17 @@
 h1 {
-	display: inline;
 	color: #3366ff;
+	margin-bottom: 20px;
+}
+
+div {
+	margin-left: 15px;
 }
 
 #projects {
 
 	list-style-type: none;
-	
-}
-
-#projects li {
-
 	margin-left: -25px;
+	
 }
 
 #projects li a {
